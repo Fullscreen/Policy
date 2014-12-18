@@ -68,7 +68,7 @@ We may amend this Privacy Policy from time to time.  Use of information we colle
 If you have any questions or concerns regarding our privacy policies, please send us a [detailed message](mailto:policy@fullscreen.net), and we will try to resolve your concerns.
 
 #### Prior Versions
-You will find a link to prior versions of our Privacy Policy below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/fullscreeninc/Policy>
+You will find a link to prior versions of our Privacy Policy below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/Fullscreen/Policy>
 
 
 *Effective Date: November 28, 2012*

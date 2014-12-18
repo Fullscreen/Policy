@@ -23,4 +23,4 @@ It is our policy to terminate in appropriate circumstances an account for repeat
 Fullscreen may access, preserve and disclose to third parties any of your information or data (including personally identifiable information and private communications) related to a written complaint of copyright infringement if Fullscreen believes in its sole discretion that such access, preservation, or disclosure is necessary or useful to respond to or otherwise address such complaint.
 
 ####Prior Versions
-You will find a link to prior versions of our Terms of Use below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/fullscreeninc/Policy>
+You will find a link to prior versions of our Terms of Use below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/Fullscreen/Policy>

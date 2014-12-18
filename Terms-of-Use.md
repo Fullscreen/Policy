@@ -103,6 +103,6 @@ Culver City, CA 90232
 **Phone:**	(310) 202-3333
 
 ####Prior Versions
-You will find a link to prior versions of our Terms of Use below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/fullscreeninc/Policy>
+You will find a link to prior versions of our Terms of Use below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/Fullscreen/Policy>
 
 *Effective: November 1, 2013*

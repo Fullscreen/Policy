@@ -26,6 +26,6 @@ If you are found to be violating these policies, you may receive a notice via em
 If you have any questions or concerns regarding our Community Guidelines, please do not hesitate to [contact us](mailto:policy@fullscreen.net).
 
 #### Prior Versions
-You will find a link to prior versions of our Community Guidelines below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/fullscreeninc/Policy>
+You will find a link to prior versions of our Community Guidelines below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed: <https://github.com/Fullscreen/Policy>
 
 *Effective Date: November 19, 2012*
