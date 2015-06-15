@@ -237,11 +237,11 @@ providing contact information for such affiliates and/or third parties.
 If you are a California resident and would like a copy of this notice,
 please submit a written request to the following address:
 
-```
-Fullscreen, Inc.
-9336 Washington Blvd, Building K
-Culver City, CA 90232
-```
+> ```
+> Fullscreen, Inc.
+> 12180 Millennium Dr
+> Los Angeles, CA 90094
+> ```
 
 #### What Choices You Have
 
@@ -295,7 +295,7 @@ other terms.
 
 #### 1. Access to the Services
 
-The fullscreen.net, dashboard.fullscreen.net, and iplus.co websites and
+The fullscreen.com, fullscreen.net, and iplus.co websites and
 domain names and any other linked pages, features, content, or
 application services (including without limitation any mobile
 application services) offered from time to time by Company in connection
@@ -395,7 +395,7 @@ limitation for promoting and redistributing part or all of the Services
 media channels; however, Company will only share your personally
 identifiable information in accordance with the Influencer Plus Privacy
 Policy in effect from time to time and located at the Legal page of
-iplus.co (https://iplus.co/legal). You also hereby do and shall grant
+iplus.co ([iplus.co/legal](https://iplus.co/legal)). You also hereby do and shall grant
 each user of the Services a non-exclusive license to access your User
 Submissions through the Services, and to use, modify, reproduce,
 distribute, prepare derivative works of, display and perform such User
@@ -506,9 +506,8 @@ use of or exposure to any Content posted, emailed, accessed,
 transmitted, or otherwise made available via the Services.
 
 You agree that you won’t post Content that violates, or otherwise use
-the Services in ways that violate, Fullscreen’s Community Guidelines.
-Please review Company’s current Community Guidelines at
-http://dashboard.fullscreen.net/community\_guidelines, which is hereby
+the Services in ways that violate, [Fullscreen’s Community Guidelines](https://github.com/Fullscreen/Policy/blob/master/Community-Guidelines.md).
+Please review Company’s current Community Guidelines, which is hereby
 incorporated by reference; your acceptance of this Agreement constitutes
 your acceptance and agreement to be bound by Company’s Community
 Guidelines.
@@ -590,7 +589,7 @@ BE UNINTERRUPTED OR ERROR-FREE.
 
 For information regarding Company’s treatment of personally identifiable
 information on iplus.co, please review the Influencer Plus Privacy
-Policy at the Legal page of iplus.co (https://iplus.co/legal), which
+Policy at the Legal page of iplus.co ([iplus.co/legal](https://iplus.co/legal)), which
 is hereby incorporated by reference; your acceptance of this Agreement
 constitutes your acceptance and agreement to be bound by Company’s
 Privacy Policy.
@@ -835,8 +834,7 @@ the Central District of California.
 #### 15. Copyright Dispute Policy
 
 Company has adopted the following general policy toward copyright
-infringement in accordance with the Digital Millennium Copyright Act or
-DMCA (posted at http://www.lcweb.loc.gov/copyright/legislation/dmca.pdf).
+infringement in accordance with the [Digital Millennium Copyright Act (DMCA)](http://www.lcweb.loc.gov/copyright/legislation/dmca.pdf).
 The address of Company’s Designated Agent to Receive Notification of
 Claimed Infringement (“Designated Agent”) is listed at the end of this
 Section. It is Company’s policy to (1) block access to or remove material
@@ -912,19 +910,26 @@ user, the removed material may be replaced or access to it restored in
 Company’s discretion.
 
 Please contact Company’s Designated Agent to Receive Notification of
-Claimed Infringement at the following address: Fullscreen, Inc., Attn:
-Copyright Agent, 9336 Washington Blvd Building K, Culver City, CA 90232
+Claimed Infringement at the following address:
+
+> ```
+> Attn: Copyright Agent
+> Fullscreen, Inc.
+> 12180 Millennium Dr
+> Los Angeles, CA 90094
+> ```
+
 
 #### 16. Contact
 
 If you have any questions, complaints, or claims with respect to the
 Services, you may contact us at:
 
-```
-Fullscreen, Inc.
-9336 Washington Blvd Building K
-Culver City, CA 90232
-```
+> ```
+> Fullscreen, Inc.
+> 12180 Millennium Dr
+> Los Angeles, CA 90094
+> ```
 
 Email: [support@fullscreen.net](mailto:support@fullscreen.net)
 
@@ -932,47 +937,49 @@ Email: [support@fullscreen.net](mailto:support@fullscreen.net)
 
 # FULLSCREEN GUIDELINES FOR ENDORSERS + INFLUENCERS
 
-These guidelines apply to all advertising, sponsorship, and promotion
-campaigns (collectively, “Campaigns”) taking place within the Fullscreen
-network, including any Influencer Plus campaigns or YouTube videos that
-you produce, appear in, or promote on behalf of third party advertisers
-or brands.
+These guidelines apply to all advertising, sponsorship, and promotion campaigns 
+(collectively, "Campaigns") taking place within the Fullscreen network, 
+including any Influencer Plus campaigns or YouTube videos that you produce, 
+appear in, or promote on behalf of third party advertisers or brands.
 
-These guidelines apply to you whenever you receive a gift of any value
-as part of a Campaign, whether a cash payment, a free product, or an
-invitation to a special event.
+These guidelines apply to you whenever you receive a gift of any value as part 
+of a Campaign, whether a cash payment, a free product, or an invitation to a 
+special event.
 
-The goal of these guidelines is to ensure that your YouTube and social
-media audiences have a clear understanding about where these Campaigns
-originated from and your connection to them.
+The goal of these guidelines is to ensure that your YouTube and social media 
+audiences have a clear understanding about where these Campaigns originated 
+from and your connection to them.
 
-It’s up to you how you choose to disclose your connection with these
-Campaigns, but the disclosure must be clear and obvious to your
-audience. We recommend the following guidelines:
+It's up to you how you choose to disclose your connection with these Campaigns,
+ but the disclosure must be clear and obvious to your audience. We recommend 
+ the following guidelines:
 
 #### YouTube Videos
 
 For sponsored videos that you produce or appear in, include:
 
-- “Sponsored Video” within the first three lines of the “About” field
-so it is visible.
+- Messaging __in the video__ (not just in the description box) disclosing your 
+connection to the Campaign.
+- Should be in the first :10 of the video.
+- If the video is longer, then there should be periodic disclosures throughout 
+the video.
 
 For Influencer Plus Campaigns, include:
 
-- “Sponsored Video” or “Sponsored Message from [sponsor’s name]” within
-the first three lines of the “About” field so it is visible.
-- Please also pay particular attention to any specific directions
-appearing on the respective Influencer Plus Campaign page.
+- Messaging in the video disclosing your connection to the Campaign (should be 
+in the first :10 of the video).
+- "Sponsored Video" or "Sponsored Message from [sponsor's name]" within the 
+first three lines of the "About" field so it is visible.
+- Please also pay particular attention to any specific directions appearing on 
+the respective Influencer Plus Campaign page.
 
 #### Twitter, Facebook, or Similar Platforms
 
-- When promoting video content which you do not appear in, begin your
-promotion with the word “Ad” or “PaidPromo”. For example, you might
-say “Ad: Check out this incredible new video from [brand with link]!”
+- When as part of a paid campaign, you are promoting (a) video content which you do not appear in, or (b) other businesses, products or services, begin your promotion with the word "Ad" or "PaidPromo". For example, you might say "Ad: Check out this incredible new video from [brand with link]!"
+- You may use abbreviations of "Sponsored", "Promotion" or "Advertisement" due to the limitations of the platforms on which you make the posts, but those abbreviations should be easily recognized by your audience.
 
-Finally, whenever you do participate in a Campaign, please remember to
-share only your honest experiences and refrain from misleading or
-offensive content.
+Finally, whenever you do participate in a Campaign, please remember to share
+ only your honest experiences and refrain from misleading or offensive content.
 
 
 # Prior Versions
@@ -982,4 +989,4 @@ you to compare different versions and see what terms have changed.
 https://github.com/Fullscreen/Policy
 
 
-*Last Update: December 16, 2014*
+*Last Update: June 11, 2015*
